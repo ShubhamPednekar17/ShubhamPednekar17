@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
 - 📫 How to reach me: [Mail me](shubya8451@gmail.com)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I want to know everything what you know !!
 
