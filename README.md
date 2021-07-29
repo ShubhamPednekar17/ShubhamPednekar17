@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
 - ⚡ Fun fact: I want to know everything what you know !!
-- 
-
