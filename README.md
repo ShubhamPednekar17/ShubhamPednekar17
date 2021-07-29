@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on basics of Android App Development
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
-- 📫 How to reach me: [Mail me](shubya8451@gmail.com)
 - ⚡ Fun fact: I want to know everything what you know !!
+- 
 
