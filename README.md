@@ -7,9 +7,11 @@
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&theme=gruvbox)](https://github.com/shubyaa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact)](https://github.com/shubyaa)
 
+
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=Music-player-using-kotlin">
   <img align="center" src="https://github.com/shubyaa/Music-player-using-kotlin" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=Data-Visualization-with-Python">
   <img align="center" src="https://github.com/shubyaa/Data-Visualization-with-Python" />
 </a>
