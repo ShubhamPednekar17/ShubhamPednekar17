@@ -7,6 +7,14 @@
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=github-readme-stats" />
+</a>
 - 🔭 I’m currently working on concepts of Machine Learning in Data Science using Python 🐍🐍🐍🐍
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
