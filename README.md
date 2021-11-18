@@ -12,9 +12,12 @@
   <img align="center" src="https://github.com/shubyaa/Music-player-using-kotlin" />
 </a>
 
+
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=Data-Visualization-with-Python">
   <img align="center" src="https://github.com/shubyaa/Data-Visualization-with-Python" />
 </a>
+
+
 - 🔭 I’m currently working on concepts of Machine Learning in Data Science using Python 🐍🐍🐍🐍
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
