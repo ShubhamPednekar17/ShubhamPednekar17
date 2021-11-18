@@ -8,13 +8,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact)](https://github.com/shubyaa)
 
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=Music-player-using-kotlin">
-  <img align="center" src="https://github.com/shubyaa/Music-player-using-kotlin" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-
-
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=shubyaa&repo=Data-Visualization-with-Python">
-  <img align="center" src="https://github.com/shubyaa/Data-Visualization-with-Python" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 
