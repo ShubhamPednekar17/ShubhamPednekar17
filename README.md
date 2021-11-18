@@ -23,3 +23,4 @@
 - 🌱 I’m currently learning everything.
 - 💬 Ask me about Android Development :)
 - ⚡ Fun fact: I want to know everything what you know !!
+- 
