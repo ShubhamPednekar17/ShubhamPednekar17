@@ -6,7 +6,7 @@
 -->
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&theme=gruvbox)](https://github.com/shubyaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact)](https://github.com/shubyaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact&theme=gruvbox)](https://github.com/shubyaa)
 
 
 <a href="https://github.com/shubyaa/Data-Visualization-with-Python">
