@@ -8,10 +8,11 @@
 - 📫 How to reach me **shubya8451@gmail.com**
 
 
+<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubyaa&show_icons=true&locale=en&layout=compact" alt="shubyaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&locale=en" alt="shubyaa" /></p>
-
+</div>
 
 
 
