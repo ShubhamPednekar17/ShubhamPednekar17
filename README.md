@@ -5,9 +5,20 @@
 **ShubhamPednekar17/ShubhamPednekar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&theme=gruvbox)](https://github.com/shubyaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&layout=compact&theme=gruvbox)](https://github.com/shubyaa)
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+<!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
 
 
 ## About me 👦🏻 ->
