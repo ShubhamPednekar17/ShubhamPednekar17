@@ -11,14 +11,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shubyaa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=shubyaa" align="center" style="width: 50%"/>
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubyaa&hide_border=true&layout=compact&langs_count=6" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
+<img src="https://github-profile-trophy.vercel.app/?username=shubyaa" align="center" style="width: 50%"/>
 
 <!-- <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=prathmeshsadake&theme=react-dark" /> </p> -->
 
