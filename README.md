@@ -25,19 +25,3 @@ Completed the coursework of Bachelor’s degree in Computer Engineering. Activel
 
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/shubhs_ped rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-154919bb-123c-4c34-b886-43bef1688228' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >shubhs_ped</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi, my name is Shubham for your Flutter applications. Not only android, but have boosted my skills in data visualization, Backend Development using Django & also MERN Stack.
-+91 9619065372
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-154919bb-123c-4c34-b886-43bef1688228' src='https://widgets.fiverr.com/api/v1/seller/shubhs_ped?widget_id=154919bb-123c-4c34-b886-43bef1688228' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
